@@ -14,29 +14,29 @@ A complete **Event Management System** built using **PHP and MySQL**, designed t
 - 🎨 Responsive UI with CSS  
 
 ---
+## 📁 Project Structure
 
-## 🗂️ Project Structure
+```text
 events2k28/
 │
-├── backend/ # Backend PHP logic
-├── css/ # Stylesheets
-├── cssjs/ # Combined CSS/JS resources
-├── database/ # Database SQL file (.mysql)
-├── db/ # Database connection files
-├── fonts/ # Font assets
-├── images/ # Image assets
-├── includes/ # Reusable PHP components
-├── js/ # JavaScript files
-├── scss/ # SCSS files
+├── backend/                # Backend PHP logic
+├── css/                    # Stylesheets
+├── cssjs/                  # Combined CSS/JS resources
+├── database/               # Database SQL file (.mysql)
+├── db/                     # Database connection files
+├── fonts/                  # Font assets
+├── images/                 # Image assets
+├── includes/               # Reusable PHP components
+├── js/                     # JavaScript files
+├── scss/                   # SCSS files
 │
-├── index.php # Homepage
-├── about.php # About page
-├── register.php # User registration
-├── register_success.php # Registration success page
-├── README.md # Project documentation
-└── LICENSE # License file
-
-
+├── index.php               # Homepage
+├── about.php               # About page
+├── register.php            # User registration
+├── register_success.php    # Registration success page
+├── README.md               # Project documentation
+└── LICENSE                 # License file
+```
 ---
 
 ## ⚙️ Requirements
@@ -130,7 +130,7 @@ JavaScript (Client-side functionality)
 
 📸 Screenshots
 
-Add screenshots here if needed
+
 
 ---
 
